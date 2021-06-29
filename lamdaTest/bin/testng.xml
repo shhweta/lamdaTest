@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="5" verbose="1" name="suit" annotations="JDK" parallel="tests">
+
+	<test name="case1">
+		<classes>
+			<class name="com.suite1.lamda.case1" />
+		</classes>
+	</test>
+	<test name="case2">
+		<classes>
+			<class name="com.suite1.lamda.case2" />
+		</classes>
+	</test>
+	<test name="case3">
+		<classes>
+			<class name="com.suite1.lamda.case3" />
+		</classes>
+	</test>
+
+</suite>

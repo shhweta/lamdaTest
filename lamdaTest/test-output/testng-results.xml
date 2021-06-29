@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-29T15:07:56 IST" name="suit" finished-at="2021-06-29T15:08:18 IST" duration-ms="21950">
+    <groups>
+    </groups>
+    <test started-at="2021-06-29T15:07:56 IST" name="case3" finished-at="2021-06-29T15:08:07 IST" duration-ms="10948">
+      <class name="com.suite1.lamda.case3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.suite1.lamda.case3@3b6ddd1d]" started-at="2021-06-29T15:07:56 IST" name="beforeMethod" finished-at="2021-06-29T15:07:59 IST" duration-ms="2764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getFrames()[pri:0, instance:com.suite1.lamda.case3@3b6ddd1d]" started-at="2021-06-29T15:07:59 IST" name="getFrames" finished-at="2021-06-29T15:08:06 IST" duration-ms="7612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFrames -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.suite1.lamda.case3@3b6ddd1d]" started-at="2021-06-29T15:08:06 IST" name="afterMethod" finished-at="2021-06-29T15:08:07 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.suite1.lamda.case3 -->
+    </test> <!-- case3 -->
+    <test started-at="2021-06-29T15:07:56 IST" name="case2" finished-at="2021-06-29T15:08:07 IST" duration-ms="10894">
+      <class name="com.suite1.lamda.case2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.suite1.lamda.case2@2fb3536e]" started-at="2021-06-29T15:07:56 IST" name="beforeMethod" finished-at="2021-06-29T15:07:59 IST" duration-ms="2572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getString()[pri:0, instance:com.suite1.lamda.case2@2fb3536e]" started-at="2021-06-29T15:07:59 IST" name="getString" finished-at="2021-06-29T15:08:06 IST" duration-ms="7834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getString -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.suite1.lamda.case2@2fb3536e]" started-at="2021-06-29T15:08:06 IST" name="afterMethod" finished-at="2021-06-29T15:08:07 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.suite1.lamda.case2 -->
+    </test> <!-- case2 -->
+    <test started-at="2021-06-29T15:07:56 IST" name="case1" finished-at="2021-06-29T15:08:18 IST" duration-ms="21950">
+      <class name="com.suite1.lamda.case1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.suite1.lamda.case1@2bfc268b]" started-at="2021-06-29T15:07:56 IST" name="beforeMethod" finished-at="2021-06-29T15:07:59 IST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="edit_Text()[pri:0, instance:com.suite1.lamda.case1@2bfc268b]" started-at="2021-06-29T15:07:59 IST" name="edit_Text" finished-at="2021-06-29T15:08:18 IST" duration-ms="18819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_Text -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.suite1.lamda.case1@2bfc268b]" started-at="2021-06-29T15:08:18 IST" name="afterMethod" finished-at="2021-06-29T15:08:18 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.suite1.lamda.case1 -->
+    </test> <!-- case1 -->
+  </suite> <!-- suit -->
+</testng-results>
